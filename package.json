@@ -17,8 +17,6 @@
   },
   "dependencies": {
     "react": "^19.1.0",
-    "i18next": "^25.3.2",
-    "react-i18next": "^15.6.0",
     "p-limit": "^7.1.1",
     "@react-pdf/renderer": "~4.3.1"
   }

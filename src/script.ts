@@ -21,7 +21,7 @@ async function main(): Promise<void> {
         await fs.mkdir(outputDir, {recursive: true});
         const outputPath = path.join(outputDir, "pdf-file.pdf");
 
-        const outputBuffer = await renderToBuffer(PdfTemplate({data: data, language: "en"}));
+        const outputBuffer = await renderToBuffer(PdfTemplate({data: data}));
 
         await fs.writeFile(outputPath, outputBuffer)
 
