@@ -3,7 +3,7 @@
 Adding a break on the text element at:
 
 ```
-src/pdf-generator/src/pdf-template.tsx:52
+src/pdf-generator/src/pdf-template.tsx:49
 ```
 
 causes an infinite loop when rendering the PDF document with `@react-pdf/renderer`.
