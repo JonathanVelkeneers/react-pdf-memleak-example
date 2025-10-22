@@ -1,0 +1,25 @@
+{
+  "name": "react-pdf-memleak-example",
+  "version": "0.0.0",
+  "private": true,
+  "packageManager": "pnpm@10.18.3",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/script.ts",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "@types/node": "^22.16.5",
+    "esbuild": "^0.25.9",
+    "tsx": "^4.20.3",
+    "@types/react": "^19.1.8"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "i18next": "^25.3.2",
+    "react-i18next": "^15.6.0",
+    "p-limit": "^7.1.1",
+    "@react-pdf/renderer": "~4.3.1"
+  }
+}

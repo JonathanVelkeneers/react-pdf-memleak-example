@@ -1,0 +1,595 @@
+{
+  "header": {
+    "sds": "Safety Data Sheet",
+    "regulation": "according to Regulation (EC) No. 1907/2006 (REACH)",
+    "version": "Version",
+    "firstRevisionDate": "First Revision",
+    "lastRevisionDate": "Last Revision",
+    "currentRevisionDate": "Current Revision"
+  },
+  "footer": {
+    "language": "United kingdom: en",
+    "page": "Page"
+  },
+  "general": {
+    "none": "None",
+    "noInfo": "No information available.",
+    "cas": "CAS No.",
+    "ec": "EC No.",
+    "reach": "REACH Reg. No.",
+    "dangerLabels": "Danger label(s)"
+  },
+  "sections": {
+    "identification": {
+      "_title": "Section 1: Identification of the substance/mixture and of the company/undertaking",
+      "productIdentifier": {
+        "_title": "Product Identifier",
+        "tradeName": "Trade name",
+        "registrationNumber": "Registration number (REACH)",
+        "ecNumber": "EC number",
+        "casNumber": "CAS number",
+        "additionalId": "Additional Identification",
+        "supplier": "Supplier"
+      },
+      "uses": {
+        "_title": "Relevant identified uses of the substance or mixture and uses advised against",
+        "identified": "Relevant identified uses",
+        "advisedAgainst": "Advised against uses"
+      },
+      "supplier": {
+        "_title": "Details of the supplier of the safety data sheet",
+        "email": "e-mail (competent person)"
+      },
+      "emergency": {
+        "_title": "Emergency telephone number",
+        "emergencyContact": "Poison Centre",
+        "emergencyContactValue": "Contact a poison control centre. List of Telephone Numbers :\nAUSTRIA (Vienna Wien) +43 1 406 43 43; BELGIUM (Brussels Bruxelles) +32 70 245 245; BULGARIA (Sofia) + 359 2 9154 409; CZECH REPUBLIC (Prague Praha) +420 224 919 293; DENMARK (Copenhagen) 82 12 12 12; ESTONIA (Tallinn) 112; FINLAND (Helsinki) +358 9 471 977; FRANCE (Paris) +33 1 40 0548 48; GERMANY (Berlin) +49 30 19240; GREECE (Athens Athinai) +30 10 779 3777; HUNGARY (Budapest) 06 80 20 11 99; ICELAND (Reykjavik) +354 525 111, +354 543 2222; IRELAND (Dublin) +353 1 8379964; ITALY (Rome) +39 06 305 4343; LATVIA (Riga) +371 704 2468; LITHUANIA (Vilnius) +370 5 236 20 52 or +370 687 53378; MALTA (Valletta) 2425 0000; NETHERLANDS (Bilthoven) +31 30 274 88 88; NORWAY (Oslo) 22 591300; POLAND (Gdansk) +48 58301 65 16 or +48 58 349 2831; PORTUGAL (Lisbon Lisboa) 808 250 143; ROMANIA (Bucharest) +40 21 3183606 SLOVAKIA (Bratislava) +421 2 54 77 4166; SLOVENIA (Ljubljana) + 386 41 650 500; SPAIN (Barcelona) +34 93 227 98 33 or +34 93 227 54 00 bleep 190; SWEDEN (Stockholm) 112 or +46 8 33 12 31 (mon-fri 9.00-17.00); UNITED KINGDOM (London) 112 or 0845 4647 (NHS Direct).",
+        "emergencyExtraInfo": "As above or next toxicological information centre."
+      }
+    },
+    "hazards": {
+      "_title": "Section 2: Hazards identification",
+      "classification": {
+        "_title": "Classification of the substance or mixture",
+        "regulation": "Classification according to Regulation (EC) No 1272/2008 (CLP)",
+        "classification": "Classification",
+        "section": "Section",
+        "hazardClass": "Hazard Class",
+        "hazardCategory": "Category",
+        "hazardCode": "Hazard class and category",
+        "hazardLabel": "Hazard statement",
+        "abbreviations": "For full text of abbreviations: see SECTION 16"
+      },
+      "mostImportant": "The most important adverse physicochemical, human health and environmental effects",
+      "labeling": {
+        "_title": "Label elements",
+        "regulation": "Labelling according to Regulation (EC) No 1272/2008 (CLP)",
+        "signalWord": "Signal Word",
+        "pictograms": "Pictograms",
+        "hazardStatements": "Hazard Statements",
+        "precautionaryStatements": "Precautionary Statements",
+        "otherHazards": "Other hazards",
+        "noOtherHazards": "There is no additional information.",
+        "pbtAssessment": "Results of PBT and vPvB assessment"
+      }
+    },
+    "composition": {
+      "_title": "Section 3: Composition / Information on Ingredients",
+      "substances": {
+        "_title": "Substances",
+        "name": "Name of substance",
+        "identifiers": "Identifiers",
+        "purity": "Purity",
+        "molecularFormula": "Molecular Formula",
+        "molarMass": "Molar Mass",
+        "impuritiesAndAdditives": {
+          "_title": "Impurities and additives",
+          "name": "Name",
+          "identifiers": "Identifiers",
+          "concentration": "Concentration",
+          "hazardClassification": "Hazard classification",
+          "labeling": "Labels"
+        }
+      }
+    },
+    "firstAid": {
+      "_title": "Section 4: First aid measures",
+      "measures": {
+        "_title": "Description of first aid measures",
+        "generalAdvice": "General notes",
+        "inhalation": "Following inhalation",
+        "skinContact": "Following skin contact",
+        "eyeContact": "Following eye contact",
+        "ingestion": "Following ingestion",
+        "notesToDoctor": "Notes for the doctor"
+      },
+      "symptomsAndSideEffects": "Most important symptoms and effects, both acute and delayed",
+      "indicationOfImmediateMedicalAttention": "Indication of any immediate medical attention and special treatment needed"
+    },
+    "firefighting": {
+      "_title": "Section 5: Firefighting measures",
+      "extinguishingMedia": {
+        "_title": "Extinguishing media",
+        "suitableExtinguishingMedia": "Suitable extinguishing media",
+        "unsuitableExtinguishingMedia": "Unsuitable extinguishing media"
+      },
+      "specialHazards": {
+        "_title": "Special hazards arising from the substance or mixture",
+        "hazardCombustionProducts": "Hazardous combustion products"
+      },
+      "adviceForFirefighters": {
+        "_title": "Advice for firefighters",
+        "protectiveEquipment": "Special protective equipment for firefighters"
+      }
+    },
+    "accidentalRelease": {
+      "_title": "Section 6: Accidental release measures",
+      "personalPrecautions": {
+        "_title": "Personal precautions, protective equipment and emergency procedures",
+        "nonEmergencyPersonnel": "For non-emergency personnel",
+        "emergencyResponders": "For emergency responders"
+      },
+      "environmentalPrecautions": "Environmental precautions",
+      "methodsAndMaterials": {
+        "_title": "Methods and materials for containment and cleaning up",
+        "spillsAndReleases": "Other information relating to spills and releases"
+      },
+      "referenceToOtherSections": {
+        "_title": "Reference to other sections",
+        "seeSection": "Hazardous combustion products: see section 5.\nPersonal protective equipment: see section 8.\nIncompatible materials: see section 10.\nDisposal considerations: see section 13."
+      }
+    },
+    "handlingAndStorage": {
+      "_title": "Section 7: Handling and storage",
+      "precautionsForSafeHandling": {
+        "_title": "Precautions for safe handling",
+        "preventFireAndAerosol": "Measures to prevent fire as well as aerosol and dust generation",
+        "specificNotes": "Specific notes/details",
+        "environmentalMeasures": "Measures to protect the environment",
+        "hygieneMeasures": "Advice on general occupational hygiene"
+      },
+      "conditionsForSafeStorage": {
+        "_title": "Conditions for safe storage, including any incompatibilities",
+        "explosiveAtmosphere": "Explosive atmospheres",
+        "flammabilityHazards": "Flammability hazards",
+        "incompatibleMaterials": "Incompatible substances or mixtures",
+        "incompatibleMaterialsValue": "Incompatible materials: see section 10.",
+        "protectAgainst": "Protect against external exposure, such as",
+        "otherAdvice": "Consideration of other advice",
+        "ventilationRequirements": "Ventilation requirements",
+        "storageRoomsOrVessels": "Specific designs for storage rooms or vessels",
+        "storageTemperature": "Storage temperature",
+        "PackagingCompatibilities": "Packaging compatibilities"
+      },
+      "specificEndUse": "Specific end use(s)"
+    },
+    "exposureControls": {
+      "_title": "Section 8: Exposure controls/personal protection",
+      "controlParameters": {
+        "_title": "Control parameters",
+        "occupationalExposureLimits": {
+          "_title": "Occupational exposure limit values (Workplace Exposure Limits)",
+          "country": "Country / Region",
+          "substance": "Name of agent",
+          "STELPPM": "STEL ppm",
+          "STELMGM3": "STEL mg/m3",
+          "TWAPPM": "TWA ppm",
+          "TWAMGM3": "TWA mg/m3",
+          "regulation": "Source"
+        },
+        "notation": "Notation",
+        "notationValue": {
+          "STEL": "STEL",
+          "STELValue": "short-term exposure limit: a limit value above which exposure should not occur and which is related to a 15-minute period (unless otherwise specified)",
+          "TWA": "TWA",
+          "TWAValue": "time-weighted average (long-term exposure limit): measured or calculated in relation to a reference period of 8 hours time-weighted average (unless otherwise specified)"
+        },
+        "humanHealthValues": "Human health values",
+        "DNELs": {
+          "_title": "Relevant DNELs and other threshold levels",
+          "endpoint": "Endpoint",
+          "thresholdLevel": "Threshold level",
+          "protectionGoal": "Protection goal, route of exposure",
+          "usedIn": "Used in",
+          "exposureTime": "Exposure time"
+        },
+        "environmentalValues": "Environmental values",
+        "PNECs": {
+          "_title": "Relevant PNECs and other threshold levels",
+          "endpoint": "Endpoint",
+          "thresholdLevel": "Threshold level",
+          "environmental": "Environmental compartment"
+        }
+      },
+      "exposureControls": {
+        "_title": "Exposure controls",
+        "engineeringControls": "Appropriate engineering controls",
+        "personalProtectiveEquipment": {
+          "_title": "Individual protection measures (personal protective equipment)",
+          "generalProtectionAndHygiene": "General protection and hygiene measures",
+          "eyeFace": "Eye/face protection",
+          "hand": "Hand protection",
+          "gloves": {
+            "_title": "Protective gloves",
+            "material": "Material",
+            "thickness": "Material thickness",
+            "breakthroughTime": "Breakthrough times of the glove material"
+          },
+          "unsuitable": "Unsuitable materials",
+          "material": "Material",
+          "respiratory": "Respiratory protection"
+        },
+        "environmental": "Environmental exposure controls"
+      }
+    },
+    "physicalAndChemicalProperties": {
+      "_title": "Section 9: Physical and chemical properties",
+      "physicalAndChemicalProperties": "Information on basic physical and chemical properties",
+      "appearance": {
+        "_title": "Appearance",
+        "physicalState": "Physical state",
+        "form": "Form",
+        "colour": "Colour",
+        "odour": "Odour",
+        "odourThreshold": "Odor threshold"
+      },
+      "otherSafetyParameters": {
+        "_title": "Other safety parameters",
+        "pH": "pH (value) ",
+        "meltingFreezingPoint": "Melting point/freezing point",
+        "boilingPoint": "Initial boiling point and boiling range",
+        "flashPoint": "Flash point",
+        "evaporationRate": "Evaporation rate",
+        "flammability": "Flammability (solid, gas)"
+      },
+      "explosiveLimits": {
+        "_title": "Explosive limits",
+        "lowerExplosiveLimit": "Lower explosion limit (LEL)",
+        "upperExplosiveLimit": "Upper explosion limit (UEL)",
+        "vapourPressure": "Vapour pressure",
+        "density": "Density",
+        "vapourDensity": "Vapour density",
+        "relativeDensity": "Relative density"
+      },
+      "solubility": "Solubility",
+      "partitionCoefficient": {
+        "_title": "Partition coefficient",
+        "nOctanolWater": "n-octanol/water (log KOW)",
+        "soilOrganic": "Soil organic carbon/water (log KOC)",
+        "autoIgnition": "Auto-ignition temperature",
+        "relativeSelfIgnitionForSolids": "Relative self-ignition temperature for solids",
+        "relativeSelfIgnitionForSolidsNotRelevant": "not relevant",
+        "decompositionTemperature": "Decomposition temperature"
+      },
+      "viscosity": {
+        "_title": "Viscosity",
+        "kinematicViscosity": "Kinematic viscosity",
+        "dynamicViscosity": "Dynamic viscosity",
+        "explosiveProperties": "Explosive properties",
+        "oxidisingProperties": "Oxidising properties"
+      },
+      "otherInformation": "Other information"
+    },
+    "stabilityAndReactivity": {
+      "_title": "Section 10: Stability and reactivity",
+      "reactivity": "Reactivity",
+      "chemicalStability": "Chemical stability",
+      "possibilityOfHazardousReactions": "Possibility of hazardous reactions",
+      "conditionsToAvoid": "Conditions to avoid",
+      "incompatibleMaterials": "Incompatible materials",
+      "hazardousDecompositionProducts": "Hazardous decomposition products"
+    },
+    "toxicologicalInformation": {
+      "_title": "Section 11: Toxicological information",
+      "informationOnToxicologicalEffects": {
+        "_title": "Information on toxicological effects",
+        "classificationProcedure": "Classification procedure",
+        "classificationProcedureValue": "If not otherwise specified the classification is based on:\nData from animal studies, Evidence from any other toxicity tests, Expert judgement (weight of evidence determination), 1272/2008/EC, Annex VI.",
+        "classification": "Classification according to GHS (1272/2008/EC, CLP)",
+        "acuteToxicity": {
+          "_title": "Acute toxicity",
+          "route": "Exposure Route",
+          "endpoint": "Endpoint",
+          "dose": "Dose",
+          "species": "Species",
+          "method": "Method",
+          "source": "Source",
+          "dermalRoute": "Dermal",
+          "dermalEndpoint": "LD50",
+          "oralRoute": "Oral",
+          "oralEndpoint": "LD50",
+          "inhalationVapourRoute": "Inhalation: vapour",
+          "inhalationVapourEndpoint": "LC50"
+        },
+        "skinCorrosionIrritation": "Skin corrosion/irritation",
+        "seriousEyeDamageIrritation": "Serious eye damage/eye irritation",
+        "respiratoryOrSkinSensitisation": "Respiratory or skin sensitisation",
+        "skinSensitisation": "Skin sensitisation",
+        "respiratorySensitisation": "Respiratory sensitisation",
+        "germCellMutagenicity": "Germ cell mutagenicity",
+        "carcinogenicity": "Carcinogenicity",
+        "reproductiveToxicity": "Reproductive toxicity",
+        "specificTargetOrganToxicitySingleExposure": "Specific target organ toxicity - single exposure",
+        "specificTargetOrganToxicityRepeatedExposure": "Specific target organ toxicity - repeated exposure",
+        "aspirationHazard": "Aspiration hazard"
+      }
+    },
+    "ecologicalInformation": {
+      "_title": "Section 12: Ecological information",
+      "toxicity": {
+        "_title": "Toxicity",
+        "noClassification": "Based on available data, the classification criteria are not met.",
+        "code": "Code",
+        "concentration": "Concentration",
+        "species": "Species",
+        "exposure": "Exposure",
+        "conclusion": "Conclusion",
+        "aquaticToxicityAcute": "Aquatic toxicity (acute)",
+        "aquaticToxicityChronic": "Aquatic toxicity (chronic)"
+      },
+      "persistenceAndDegradability": {
+        "_title": "Persistence and degradability",
+        "processOfDegradability": {
+          "_title": "Process of degradability",
+          "process": "Process",
+          "degradationRate": "Degradation Rate",
+          "time": "Time",
+          "method": "Method",
+          "source": "Source"
+        },
+        "biodegradation": "Biodegradation",
+        "persistence": "Persistence"
+      },
+      "bioaccumulativePotential": "Bioaccumulative potential",
+      "mobilityInSoil": "Mobility in soil",
+      "resultsOfPBTAndvPvBAssessment": "Results of PBT and vPvB assessment",
+      "otherAdverseEffects": "Other adverse effects",
+      "remarks": "Remarks"
+    },
+    "disposal": {
+      "_title": "Section 13: Disposal considerations",
+      "wasteTreatmentMethods": "Waste treatment methods",
+      "sewageDisposal": "Sewage disposal-relevant information",
+      "treatmentOfPackaging": "Waste treatment of containers/packaging",
+      "treatmentOfPackagingValue": "Handle contaminated packages in the same way as the substance itself.",
+      "remarks": "Remarks",
+      "remarksValue": "Please consider the relevant national or regional provisions."
+    },
+    "transportInformation": {
+      "_title": "Section 14: Transport information",
+      "generalInfo": "General information",
+      "UNNumber": "UN number",
+      "UNProperShippingName": "UN proper shipping name",
+      "transportHazardClass": "Transport hazard class(es)",
+      "class": "Class",
+      "packingGroup": "Packing group",
+      "environmentalHazards": "Environmental hazards",
+      "environmentalHazardsTrue": "Environmentally hazardous acc. to the dangerous goods regulations",
+      "environmentalHazardsFalse": "Non-environmentally hazardous acc. to the dangerous goods regulations",
+      "specialPrecautionsForUser": "Special precautions for user",
+      "transportInBulk": "Transport in bulk according to Annex II of MARPOL and the IBC Code",
+      "informationForUnModelRegulations": {
+        "_title": "Information for each of the UN Model Regulations",
+        "general": {
+          "specialProvisions": "Special provisions (SP)",
+          "exceptedQuantities": "Excepted quantities (EQ)",
+          "limitedQuantities": "Limited quantities (LQ)",
+          "properShippingName": "Proper shipping name"
+        },
+        "land": {
+          "_title": "Transport of dangerous goods by road, rail and inland waterway (ADR/RID/ADN).",
+          "classificationCode": "Classification code",
+          "transportCategory": "Transport category (TC)",
+          "tunnelRestrictionCode": "Tunnel restriction code (TRC)",
+          "hazardIdentificationNumber": "Hazard identification No",
+          "emergencyActionCode": "Emergency Action Code"
+        },
+        "sea": {
+          "_title": "International Maritime Dangerous Goods Code (IMDG)",
+          "marinePollutant": "Marine pollutant (MP)",
+          "marinePollutantTrue": "Yes.",
+          "marinePollutantFalse": "-",
+          "ems": "EmS",
+          "stowageCategory": "Stowage category"
+        },
+        "air": {
+          "_title": "International Civil Aviation Organization (ICAO-IATA/DGR)"
+        }
+      }
+    },
+    "regulatory": {
+      "_title": "Section 15: Regulatory information",
+      "safetyHealthAndEnvironmentalRegulations": "Safety, health and environmental regulations/legislation specific for the substance or mixture",
+      "relevantProvisionOfEU": "Relevant provisions of the European Union (EU)",
+      "REACHRestrictions": {
+        "_title": "Restrictions according to REACH, Annex XVII",
+        "substancesWithRestrictions": "Dangerous substances with restrictions (REACH, Annex XVII)",
+        "name": "Name of substance",
+        "inventory": "Name acc. to inventory",
+        "restriction": "Restriction"
+      },
+      "otherListed": {
+        "listed": "Listed",
+        "notListed": "Not listed",
+        "svch": "List of substances subject to authorisation (REACH, Annex XIV) / SVHC - candidate list",
+        "seveso": "Seveso Directive (2012/18/EU (Seveso III))",
+        "directive_2011_65_EU": "Directive 2011/65/EU on the restriction of the use of certain hazardous substances in electrical and electronic equipment (RoHS) - Annex II",
+        "regulation_166_2006_EC": "Regulation 166/2006/EC concerning the establishment of a European Pollutant Release and Transfer Register (PRTR)",
+        "directive_2000_60_EC": "Directive 2000/60/EC establishing a framework for Community action in the field of water policy (WFD)",
+        "regulation_98_2013_EU": "Regulation 98/2013/EU on the marketing and use of explosives precursors"
+      },
+      "chemicalSafetyAssessment": "Chemical Safety Assessment",
+      "chemicalSafetyAssessmentTrue": "Chemical Safety Assessment has been carried out for this substance by the supplier.",
+      "chemicalSafetyAssessmentFalse": "No Chemical Safety Assessment has been carried out for this substance by the supplier."
+    },
+    "otherInformation": {
+      "_title": "Section 16: Other information",
+      "abbreviationsAndAcronymsTitle": "Abbreviations and acronyms",
+      "abbreviationsAndAcronymsKey": "Abbr.",
+      "abbreviationsAndAcronymsValue": "Descriptions of used abbreviations",
+      "abbreviationsAndAcronyms": [
+        {
+          "key": "1272/2008/EC, Annex VI",
+          "value": "Harmonised classification and labelling for certain hazardous substances"
+        },
+        {
+          "key": "2009/161/EU",
+          "value": "Commission Directive establishing a third list of indicative occupational exposure limit values in implementation of Council Directive 98/24/EC and amending Commission Directive 2000/39/EC"
+        },
+        {
+          "key": "ADN",
+          "value": "European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways"
+        },
+        {
+          "key": "ADR",
+          "value": "European Agreement concerning the International Carriage of Dangerous Goods by Road"
+        },
+        {
+          "key": "CAS",
+          "value": "Chemical Abstracts Service (service that maintains the most comprehensive list of chemical substances)"
+        },
+        {
+          "key": "CLP",
+          "value": "Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures"
+        },
+        {
+          "key": "DGR",
+          "value": "Dangerous Goods Regulations (see IATA/DGR)"
+        },
+        {
+          "key": "DNEL",
+          "value": "Derived No Effect Level"
+        },
+        {
+          "key": "Ec No.",
+          "value": "The EC Inventory (EINECS, ELINCS and the NLP-list) is the source for the seven-digit EC number, anidentifier of substances commercially available within the EU (European Union)"
+        },
+        {
+          "key": "EH40/2005",
+          "value": "EH40/2005 Workplace exposure limits (http://www.nationalarchives.gov.uk/doc/open-government-licence/)"
+        },
+        {
+          "key": "EINECS",
+          "value": "European Inventory of Existing Commercial Chemical Substances"
+        },
+        {
+          "key": "ELINCS",
+          "value": "European List of Notified Chemical Substances"
+        },
+        {
+          "key": "EmS",
+          "value": "Emergency Schedule"
+        },
+        {
+          "key": "Eye Dam.",
+          "value": "Seriously damaging to the eye"
+        },
+        {
+          "key": "Eye Irrit.",
+          "value": "Irritating to the eye"
+        },
+        {
+          "key": "Flam. Liq.",
+          "value": "Flammable liquid"
+        },
+        {
+          "key": "GHS",
+          "value": "Globally Harmonised System of Classification and Labelling of Chemicals; developed by the United Nations"
+        },
+        {
+          "key": "IATA",
+          "value": "International Air Transport Association"
+        },
+        {
+          "key": "IATA/DGR",
+          "value": "Dangerous Goods Regulations (DGR) for the air transport (IATA)"
+        },
+        {
+          "key": "ICAO",
+          "value": "International Civil Aviation Organization"
+        },
+        {
+          "key": "IMDG",
+          "value": "International Maritime Dangerous Goods Code"
+        },
+        {
+          "key": "Index No",
+          "value": "The Index number is the identification code given to the substance in Part 3 of Annex VI to Regulation (EC) No 1272/2008"
+        },
+        {
+          "key": "IOELV",
+          "value": "Indicative Occupational Exposure Limit Value"
+        },
+        {
+          "key": "MARPOL",
+          "value": "International Convention for the Prevention of Pollution from Ships (abbr. of 'Marine Pollutant')"
+        },
+        {
+          "key": "NLP",
+          "value": "No-Longer Polymers"
+        },
+        {
+          "key": "PBT",
+          "value": "Persistent, Bioaccumulative and Toxic"
+        },
+        {
+          "key": "PNEC",
+          "value": "Predicted No Effect Concentration"
+        },
+        {
+          "key": "ppm",
+          "value": "Parts per million"
+        },
+        {
+          "key": "REACH",
+          "value": "Registration, Evaluation, Authorisation and Restriction of Chemicals"
+        },
+        {
+          "key": "RID",
+          "value": "Regulation concerning the International Carriage of Dangerous Goods by Rail"
+        },
+        {
+          "key": "Skin Corr.",
+          "value": "Corrosive to skin"
+        },
+        {
+          "key": "Skin Irrit.",
+          "value": "Irritating to skin"
+        },
+        {
+          "key": "Skin Sens.",
+          "value": "Skin sensitisation"
+        },
+        {
+          "key": "STEL",
+          "value": "Short-term exposure limit"
+        },
+        {
+          "key": "STOT SE",
+          "value": "Specific target organ toxicity - single exposure"
+        },
+        {
+          "key": "SVHC",
+          "value": "Substances of Very High Concern"
+        },
+        {
+          "key": "TWA",
+          "value": "Time-weighted average"
+        },
+        {
+          "key": "vPvB",
+          "value": "Very Persistent and Very Bioaccumulative"
+        },
+        {
+          "key": "WEL",
+          "value": "Workplace Exposure Limit"
+        }
+      ],
+      "references": "Key literature references and sources for data",
+      "referencesValue": "Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures.\nRegulation (EC) No. 1907/2006 (REACH), amended by 2015/830/EU.\nTransport of dangerous goods by road, rail and inland waterway (ADR/RID/ADN).\nInternational Maritime Dangerous Goods Code (IMDG).\nDangerous Goods Regulations (DGR) for the air transport (IATA).",
+      "classificationProcedure": "Classification procedure",
+      "classificationProcedureValue": "Physical and chemical properties.\nHealth hazards.\nEnvironmental hazards.\nThe method for classification of the mixture is based on ingredients of the mixture (additivity formula).",
+      "listOfRelevantPhrases": "List of relevant phrases (code and full text as stated in section 2 and 3)"
+    }
+  }
+}

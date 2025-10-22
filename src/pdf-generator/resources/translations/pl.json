@@ -1,0 +1,595 @@
+{
+  "header": {
+    "sds": "Karta charakterystyki",
+    "regulation": "zgodnie z rozporządzeniem (WE) nr 1907/2006 (REACH)",
+    "version": "Wersja",
+    "firstRevisionDate": "Pierwsza wersja",
+    "lastRevisionDate": "Ostatnia wersja",
+    "currentRevisionDate": "Aktualna wersja"
+  },
+  "footer": {
+    "language": "Wersja językowa: pl (Polska)",
+    "page": "Strona"
+  },
+  "general": {
+    "none": "Brak",
+    "noInfo": "Brak dostępnych informacji.",
+    "cas": "Nr CAS",
+    "ec": "Nr WE",
+    "reach": "Nr rejestracji REACH",
+    "dangerLabels": "Znaki niebezpieczeństwa"
+  },
+  "sections": {
+    "identification": {
+      "_title": "Sekcja 1: Identyfikacja substancji/mieszaniny oraz identyfikacja przedsiębiorstwa",
+      "productIdentifier": {
+        "_title": "Identyfikator produktu",
+        "tradeName": "Nazwa handlowa",
+        "registrationNumber": "Numer rejestracyjny (REACH)",
+        "ecNumber": "Numer WE",
+        "casNumber": "Numer CAS",
+        "additionalId": "Dodatkowa identyfikacja",
+        "supplier": "Dostawca"
+      },
+      "uses": {
+        "_title": "Zastosowania istotne i stosowania odradzane",
+        "identified": "Istotne zastosowania",
+        "advisedAgainst": "Stosowania odradzane"
+      },
+      "supplier": {
+        "_title": "Dane dostawcy karty charakterystyki",
+        "email": "e-mail (osoba kompetentna)"
+      },
+      "emergency": {
+        "_title": "Numer telefonu alarmowego",
+        "emergencyContact": "Centrum Toksykologiczne",
+        "emergencyContactValue": "Proszę skontaktować się z centrum zatruć. Lista numerów telefonu :\nAUSTRIA (Vienna Wien) +43 1 406 43 43; BELGIUM (Brussels Bruxelles) +32 70 245 245; BULGARIA (Sofia) + 359 2 9154 409; CZECH REPUBLIC (Prague Praha) +420 224 919 293; DENMARK (Copenhagen) 82 12 12 12; ESTONIA (Tallinn) 112; FINLAND (Helsinki) +358 9 471 977; FRANCE (Paris) +33 1 40 0548 48; GERMANY (Berlin) +49 30 19240; GREECE (Athens Athinai) +30 10 779 3777; HUNGARY (Budapest) 06 80 20 11 99; ICELAND (Reykjavik) +354 525 111, +354 543 2222; IRELAND (Dublin) +353 1 8379964; ITALY (Rome) +39 06 305 4343; LATVIA (Riga) +371 704 2468; LITHUANIA (Vilnius) +370 5 236 20 52 or +370 687 53378; MALTA (Valletta) 2425 0000; NETHERLANDS (Bilthoven) +31 30 274 88 88; NORWAY (Oslo) 22 591300; POLAND (Gdansk) +48 58301 65 16 or +48 58 349 2831; PORTUGAL (Lisbon Lisboa) 808 250 143; ROMANIA (Bucharest) +40 21 3183606 SLOVAKIA (Bratislava) +421 2 54 77 4166; SLOVENIA (Ljubljana) + 386 41 650 500; SPAIN (Barcelona) +34 93 227 98 33 or +34 93 227 54 00 bleep 190; SWEDEN (Stockholm) 112 or +46 8 33 12 31 (mon-fri 9.00-17.00); UNITED KINGDOM (London) 112 or 0845 4647 (NHS Direct).",
+        "emergencyExtraInfo": "Jak powyżej lub z najbliższym centrum informacji toksykologicznej."
+      }
+    },
+    "hazards": {
+      "_title": "Sekcja 2: Identyfikacja zagrożeń",
+      "classification": {
+        "_title": "Klasyfikacja substancji/mieszaniny",
+        "regulation": "Klasyfikacja zgodnie z rozporządzeniem (WE) nr 1272/2008 (CLP)",
+        "classification": "Klasyfikacja",
+        "section": "Sekcja",
+        "hazardClass": "Klasa zagrożenia",
+        "hazardCategory": "Kategoria",
+        "hazardCode": "Klasa i kategoria zagrożenia",
+        "hazardLabel": "Zwrot wskazujący na zagrożenie",
+        "abbreviations": "Pełna treść skrótów: patrz SEKCJA 16"
+      },
+      "mostImportant": "Najważniejsze skutki niepożądane fizykochemiczne, dla zdrowia i środowiska",
+      "labeling": {
+        "_title": "Elementy etykietowania",
+        "regulation": "Etykietowanie zgodne z rozporządzeniem (WE) nr 1272/2008 (CLP)",
+        "signalWord": "Słowo sygnałowe",
+        "pictograms": "Piktogramy",
+        "hazardStatements": "Zwroty wskazujące na zagrożenie (H-phrases)",
+        "precautionaryStatements": "Zwroty wskazujące środki ostrożności (P-phrases)",
+        "otherHazards": "Inne zagrożenia",
+        "noOtherHazards": "Brak dodatkowych informacji.",
+        "pbtAssessment": "Wyniki oceny PBT i vPvB"
+      }
+    },
+    "composition": {
+      "_title": "Sekcja 3: Skład/Informacja o składnikach",
+      "substances": {
+        "_title": "Substancje",
+        "name": "Nazwa substancji",
+        "identifiers": "Identyfikatory",
+        "purity": "Czystość",
+        "molecularFormula": "Wzór sumaryczny",
+        "molarMass": "Masa molowa",
+        "impuritiesAndAdditives": {
+          "_title": "Zanieczyszczenia i dodatki",
+          "name": "Nazwa",
+          "identifiers": "Identyfikatory",
+          "concentration": "Stężenie",
+          "hazardClassification": "Klasyfikacja niebezpieczeństwa",
+          "labeling": "Etykietowanie"
+        }
+      }
+    },
+    "firstAid": {
+      "_title": "Sekcja 4: Środki pierwszej pomocy",
+      "measures": {
+        "_title": "Opis środków pierwszej pomocy",
+        "generalAdvice": "Uwagi ogólne",
+        "inhalation": "Po wdychaniu",
+        "skinContact": "Po kontakcie ze skórą",
+        "eyeContact": "Po kontakcie z oczami",
+        "ingestion": "Po połknięciu",
+        "notesToDoctor": "Wskazania dla lekarza"
+      },
+      "symptomsAndSideEffects": "Najważniejsze objawy i skutki − ostre i opóźnione",
+      "indicationOfImmediateMedicalAttention": "Wymagania dotyczące natychmiastowej pomocy medycznej i specjalnego leczenia"
+    },
+    "firefighting": {
+      "_title": "Sekcja 5: Środki do zwalczania pożaru",
+      "extinguishingMedia": {
+        "_title": "Środki gaśnicze",
+        "suitableExtinguishingMedia": "Nadaje się do gaszenia",
+        "unsuitableExtinguishingMedia": "Nie nadaje się do gaszenia"
+      },
+      "specialHazards": {
+        "_title": "Szczególne zagrożenia wynikające z substancji/mieszaniny",
+        "hazardCombustionProducts": "Produkty niebezpiecznego spalania"
+      },
+      "adviceForFirefighters": {
+        "_title": "Zalecenia dla straży pożarnej",
+        "protectiveEquipment": "Specjalne wyposażenie ochronne dla strażaków"
+      }
+    },
+    "accidentalRelease": {
+      "_title": "Sekcja 6: Środki w przypadku niezamierzonego uwolnienia",
+      "personalPrecautions": {
+        "_title": "Środki ostrożności, wyposażenie ochronne i procedury awaryjne",
+        "nonEmergencyPersonnel": "Dla personelu niebędącego w stanie zagrożenia",
+        "emergencyResponders": "Dla służb ratunkowych"
+      },
+      "environmentalPrecautions": "Środki ochrony środowiska",
+      "methodsAndMaterials": {
+        "_title": "Metody i materiały do zatrzymania i usunięcia",
+        "spillsAndReleases": "Inne informacje dotyczące wycieków i uwolnień"
+      },
+      "referenceToOtherSections": {
+        "_title": "Odesłania do innych sekcji",
+        "seeSection": "Produkty spalania: patrz sekcja 5.\nWyposażenie ochronne: patrz sekcja 8.\nSubstancje niezgodne: patrz sekcja 10.\nPostępowanie z odpadami: patrz sekcja 13."
+      }
+    },
+    "handlingAndStorage": {
+      "_title": "Sekcja 7: Postępowanie z substancją/mieszaniną oraz jej magazynowanie",
+      "precautionsForSafeHandling": {
+        "_title": "Środki ostrożności dotyczące bezpiecznego obchodzenia się",
+        "preventFireAndAerosol": "Środki zapobiegające pożarowi oraz powstawaniu aerozoli i pyłu",
+        "specificNotes": "Szczegółowe uwagi",
+        "environmentalMeasures": "Środki ochrony środowiska",
+        "hygieneMeasures": "Zalecenia dotyczące higieny pracy"
+      },
+      "conditionsForSafeStorage": {
+        "_title": "Warunki bezpiecznego przechowywania, w tym niezgodności",
+        "explosiveAtmosphere": "Atmosfery wybuchowe",
+        "flammabilityHazards": "Zagrożenia palności",
+        "incompatibleMaterials": "Substancje/mieszaniny niezgodne",
+        "incompatibleMaterialsValue": "Materiały niezgodne: patrz sekcja 10.",
+        "protectAgainst": "Chronić przed zewnętrznymi czynnikami, takimi jak",
+        "otherAdvice": "Inne zalecenia",
+        "ventilationRequirements": "Wymagania dotyczące wentylacji",
+        "storageRoomsOrVessels": "Specjalne wymagania dla pomieszczeń lub zbiorników magazynowych",
+        "storageTemperature": "Temperatura przechowywania",
+        "PackagingCompatibilities": "Zgodność opakowań"
+      },
+      "specificEndUse": "Określone końcowe zastosowanie"
+    },
+    "exposureControls": {
+      "_title": "Sekcja 8: Kontrola narażenia / Ochrona indywidualna",
+      "controlParameters": {
+        "_title": "Parametry kontroli",
+        "occupationalExposureLimits": {
+          "_title": "Dopuszczalne wartości stężeń w miejscu pracy (NDS)",
+          "country": "Kraj / Region",
+          "substance": "Nazwa czynnika",
+          "STELPPM": "STEL ppm",
+          "STELMGM3": "STEL mg/m³",
+          "TWAPPM": "NDSCh ppm",
+          "TWAMGM3": "NDSCh mg/m³",
+          "regulation": "Źródło"
+        },
+        "notation": "Oznaczenie",
+        "notationValue": {
+          "STEL": "STEL",
+          "STELValue": "krótkotrwała wartość dopuszczalna: wartość, której przekroczenie nie powinno mieć miejsca w okresie 15 min (chyba że podano inaczej)",
+          "TWA": "NDSCh",
+          "TWAValue": "średnia ważona w czasie (długotrwała wartość dopuszczalna): określana w odniesieniu do 8-godzinnego okresu (chyba że podano inaczej)"
+        },
+        "humanHealthValues": "Wartości zdrowotne",
+        "DNELs": {
+          "_title": "Odpowiednie wartości DNEL i inne poziomy progowe",
+          "endpoint": "Efekt końcowy",
+          "thresholdLevel": "Poziom progowy",
+          "protectionGoal": "Cel ochronny, droga narażenia",
+          "usedIn": "Zastosowanie",
+          "exposureTime": "Czas narażenia"
+        },
+        "environmentalValues": "Wartości środowiskowe",
+        "PNECs": {
+          "_title": "Odpowiednie wartości PNEC i inne poziomy progowe",
+          "endpoint": "Efekt końcowy",
+          "thresholdLevel": "Poziom progowy",
+          "environmental": "Kompartament środowiskowy"
+        }
+      },
+      "exposureControls": {
+        "_title": "Środki ochrony",
+        "engineeringControls": "Odpowiednie środki techniczne",
+        "personalProtectiveEquipment": {
+          "_title": "Środki ochrony indywidualnej",
+          "generalProtectionAndHygiene": "Ogólne środki ochrony i higiena",
+          "eyeFace": "Ochrona oczu/twarzy",
+          "hand": "Ochrona rąk",
+          "gloves": {
+            "_title": "Rękawice ochronne",
+            "material": "Materiał",
+            "thickness": "Grubość materiału",
+            "breakthroughTime": "Czas przenikania materiału rękawicy"
+          },
+          "unsuitable": "Materiały niewłaściwe",
+          "material": "Materiał",
+          "respiratory": "Ochrona dróg oddechowych"
+        },
+        "environmental": "Środki ochrony środowiska"
+      }
+    },
+    "physicalAndChemicalProperties": {
+      "_title": "Sekcja 9: Właściwości fizyczne i chemiczne",
+      "physicalAndChemicalProperties": "Informacje o podstawowych właściwościach fizykochemicznych",
+      "appearance": {
+        "_title": "Wygląd",
+        "physicalState": "Stan fizyczny",
+        "form": "Postać",
+        "colour": "Barwa",
+        "odour": "Zapach",
+        "odourThreshold": "Próg zapachu"
+      },
+      "otherSafetyParameters": {
+        "_title": "Inne parametry bezpieczeństwa",
+        "pH": "pH (wartość)",
+        "meltingFreezingPoint": "Temperatura topnienia/stężenia",
+        "boilingPoint": "Początkowy punkt wrzenia i zakres wrzenia",
+        "flashPoint": "Temperatura zapłonu",
+        "evaporationRate": "Szybkość parowania",
+        "flammability": "Łatwopalność (ciało stałe, gaz)"
+      },
+      "explosiveLimits": {
+        "_title": "Limity wybuchowości",
+        "lowerExplosiveLimit": "Dolny limit wybuchowości (LEL)",
+        "upperExplosiveLimit": "Górny limit wybuchowości (UEL)",
+        "vapourPressure": "Ciśnienie pary",
+        "density": "Gęstość",
+        "vapourDensity": "Gęstość par",
+        "relativeDensity": "Gęstość względna"
+      },
+      "solubility": "Rozpuszczalność",
+      "partitionCoefficient": {
+        "_title": "Współczynnik podziału",
+        "nOctanolWater": "n-oktanol/woda (log KOW)",
+        "soilOrganic": "Woda/węgiel organiczny gleb (log KOC)",
+        "autoIgnition": "Temperatura samozapłonu",
+        "relativeSelfIgnitionForSolids": "Relatywna temperatura samozapłonu dla ciał stałych",
+        "relativeSelfIgnitionForSolidsNotRelevant": "nieistotne",
+        "decompositionTemperature": "Temperatura rozkładu"
+      },
+      "viscosity": {
+        "_title": "Lepkość",
+        "kinematicViscosity": "Lepkość kinematyczna",
+        "dynamicViscosity": "Lepkość dynamiczna",
+        "explosiveProperties": "Właściwości wybuchowe",
+        "oxidisingProperties": "Właściwości utleniające"
+      },
+      "otherInformation": "Inne informacje"
+    },
+    "stabilityAndReactivity": {
+      "_title": "Sekcja 10: Stabilność i reaktywność",
+      "reactivity": "Reaktywność",
+      "chemicalStability": "Stabilność chemiczna",
+      "possibilityOfHazardousReactions": "Możliwość niebezpiecznych reakcji",
+      "conditionsToAvoid": "Warunki, których należy unikać",
+      "incompatibleMaterials": "Materiały niezgodne",
+      "hazardousDecompositionProducts": "Niebezpieczne produkty rozkładu"
+    },
+    "toxicologicalInformation": {
+      "_title": "Sekcja 11: Informacje toksykologiczne",
+      "informationOnToxicologicalEffects": {
+        "_title": "Informacje o skutkach toksykologicznych",
+        "classificationProcedure": "Procedura klasyfikacji",
+        "classificationProcedureValue": "Jeśli nie podano inaczej, klasyfikacja oparta jest na:\nDanych z badań na zwierzętach, innych testach toksyczności, ocenie eksperckiej (waga dowodów), 1272/2008/WE, Załącznik VI.",
+        "classification": "Klasyfikacja zgodnie z GHS (1272/2008/WE, CLP)",
+        "acuteToxicity": {
+          "_title": "Toksyczność ostra",
+          "route": "Droga narażenia",
+          "endpoint": "Efekt końcowy",
+          "dose": "Dawka",
+          "species": "Gatunek",
+          "method": "Metoda",
+          "source": "Źródło",
+          "dermalRoute": "Dermalne LD50",
+          "dermalEndpoint": "LD50",
+          "oralRoute": "Doustne LD50",
+          "oralEndpoint": "LD50",
+          "inhalationVapourRoute": "Wdychanie: pary LC50",
+          "inhalationVapourEndpoint": "Wdychanie: pary LC50"
+        },
+        "skinCorrosionIrritation": "Działanie żrące/ drażniące na skórę",
+        "seriousEyeDamageIrritation": "Ciężkie uszkodzenie/ podrażnienie oczu",
+        "respiratoryOrSkinSensitisation": "Uczulenie drogą oddechową lub skórną",
+        "skinSensitisation": "Uczulenie skórne",
+        "respiratorySensitisation": "Uczulenie oddechowe",
+        "germCellMutagenicity": "Mutagenność dla komórek rozrodczych",
+        "carcinogenicity": "Działanie rakotwórcze",
+        "reproductiveToxicity": "Toksyczność reprodukcyjna",
+        "specificTargetOrganToxicitySingleExposure": "Specyficzne działanie na organy − jednorazowe narażenie",
+        "specificTargetOrganToxicityRepeatedExposure": "Specyficzne działanie na organy − wielokrotne narażenie",
+        "aspirationHazard": "Niebezpieczeństwo aspiracji"
+      }
+    },
+    "ecologicalInformation": {
+      "_title": "Sekcja 12: Informacje ekologiczne",
+      "toxicity": {
+        "_title": "Toksyczność",
+        "noClassification": "Na podstawie dostępnych danych kryteria klasyfikacji nie są spełnione.",
+        "code": "Kod",
+        "concentration": "Stężenie",
+        "species": "Gatunek",
+        "exposure": "Narażenie",
+        "conclusion": "Wniosek",
+        "aquaticToxicityAcute": "Toksyczność wodna (ostra)",
+        "aquaticToxicityChronic": "Toksyczność wodna (przewlekła)"
+      },
+      "persistenceAndDegradability": {
+        "_title": "Trwałość i zdolność do degradacji",
+        "processOfDegradability": {
+          "_title": "Proces degradacji",
+          "process": "Proces",
+          "degradationRate": "Szybkość degradacji",
+          "time": "Czas",
+          "method": "Metoda",
+          "source": "Źródło"
+        },
+        "biodegradation": "Biodegradacja",
+        "persistence": "Trwałość"
+      },
+      "bioaccumulativePotential": "Potencjał bioakumulacyjny",
+      "mobilityInSoil": "Mobilność w glebie",
+      "resultsOfPBTAndvPvBAssessment": "Wyniki oceny PBT i vPvB",
+      "otherAdverseEffects": "Inne niekorzystne skutki",
+      "remarks": "Uwagi"
+    },
+    "disposal": {
+      "_title": "Sekcja 13: Postępowanie z odpadami",
+      "wasteTreatmentMethods": "Metody unieszkodliwiania odpadów",
+      "sewageDisposal": "Informacje dotyczące usuwania do kanalizacji",
+      "treatmentOfPackaging": "Postępowanie z opakowaniami",
+      "treatmentOfPackagingValue": "Zanieczyszczone opakowania traktować jak substancję.",
+      "remarks": "Uwagi",
+      "remarksValue": "Proszę uwzględnić odpowiednie przepisy krajowe lub regionalne."
+    },
+    "transportInformation": {
+      "_title": "Sekcja 14: Informacje dotyczące transportu",
+      "generalInfo": "Informacje ogólne",
+      "UNNumber": "Numer UN",
+      "UNProperShippingName": "Oficjalna nazwa przewozowa UN",
+      "transportHazardClass": "Klasa(y) zagrożenia podczas transportu",
+      "class": "Klasa",
+      "packingGroup": "Grupa pakowania",
+      "environmentalHazards": "Zagrożenia dla środowiska",
+      "environmentalHazardsTrue": "Zgodnie z przepisami o materiałach niebezpiecznych – niebezpieczne dla środowiska",
+      "environmentalHazardsFalse": "Zgodnie z przepisami o materiałach niebezpiecznych – nie stanowi zagrożenia dla środowiska",
+      "specialPrecautionsForUser": "Specjalne środki ostrożności dla użytkownika",
+      "transportInBulk": "Transport luzem zgodnie z załącznikiem II MARPOL i kodeksem IBC",
+      "informationForUnModelRegulations": {
+        "_title": "Informacje dla każdego z Modelowych Przepisów ONZ",
+        "general": {
+          "specialProvisions": "Przepisy szczególne (SP)",
+          "exceptedQuantities": "Ilości wyłączone (EQ)",
+          "limitedQuantities": "Ilości ograniczone (LQ)",
+          "properShippingName": "Właściwa nazwa przewozowa"
+        },
+        "land": {
+          "_title": "Transport drogowy, kolejowy i śródlądowy (ADR/RID/ADN)",
+          "classificationCode": "Kod klasyfikacji",
+          "transportCategory": "Kategoria transportu (TC)",
+          "tunnelRestrictionCode": "Kod ograniczeń tunelowych (TRC)",
+          "hazardIdentificationNumber": "Numer identyfikacji zagrożenia",
+          "emergencyActionCode": "Kod akcji awaryjnej"
+        },
+        "sea": {
+          "_title": "Międzynarodowy kodeks IMDG",
+          "marinePollutant": "Zanieczyszczający środowisko morskim (MP)",
+          "marinePollutantTrue": "Tak",
+          "marinePollutantFalse": "–",
+          "ems": "EmS",
+          "stowageCategory": "Kategoria składowania"
+        },
+        "air": {
+          "_title": "ICAO-IATA/DGR"
+        }
+      }
+    },
+    "regulatory": {
+      "_title": "Sekcja 15: Informacje dotyczące przepisów prawnych",
+      "safetyHealthAndEnvironmentalRegulations": "Przepisy bezpieczeństwa, zdrowia i środowiska właściwe dla substancji/mieszaniny",
+      "relevantProvisionOfEU": "Istotne przepisy Unii Europejskiej (UE)",
+      "REACHRestrictions": {
+        "_title": "Ograniczenia zgodnie z REACH, załącznik XVII",
+        "substancesWithRestrictions": "Substancje niebezpieczne z ograniczeniami (REACH, załącznik XVII)",
+        "name": "Nazwa substancji",
+        "inventory": "Nazwa wg inwentarza",
+        "restriction": "Ograniczenie"
+      },
+      "otherListed": {
+        "listed": "Wpisana",
+        "notListed": "Niewpisana",
+        "svch": "Lista substancji podlegających autoryzacji (REACH, załącznik XIV) / SVHC – kandydaci",
+        "seveso": "Dyrektywa Seveso (2012/18/UE (Seveso III))",
+        "directive_2011_65_EU": "Dyrektywa 2011/65/UE (RoHS) – załącznik II",
+        "regulation_166_2006_EC": "Rozporządzenie 166/2006/WE (PRTR)",
+        "directive_2000_60_EC": "Dyrektywa 2000/60/WE (WFD)",
+        "regulation_98_2013_EU": "Rozporządzenie 98/2013/UE o prekursorach materiałów wybuchowych"
+      },
+      "chemicalSafetyAssessment": "Ocena bezpieczeństwa chemicznego",
+      "chemicalSafetyAssessmentTrue": "Ocena bezpieczeństwa chemicznego została przeprowadzona przez dostawcę dla tej substancji.",
+      "chemicalSafetyAssessmentFalse": "Ocena bezpieczeństwa chemicznego nie została przeprowadzona dla tej substancji."
+    },
+    "otherInformation": {
+      "_title": "Sekcja 16: Inne informacje",
+      "abbreviationsAndAcronymsTitle": "Skróty i akronimy",
+      "abbreviationsAndAcronymsKey": "Skrót",
+      "abbreviationsAndAcronymsValue": "Wyjaśnienie użytych skrótów",
+      "abbreviationsAndAcronyms": [
+        {
+          "key": "1272/2008/EC, Annex VI",
+          "value": "Zharmonizowana klasyfikacja i oznakowanie wybranych substancji niebezpiecznych"
+        },
+        {
+          "key": "2009/161/EU",
+          "value": "Dyrektywa Komisji ustanawiająca trzeci wykaz dopuszczalnych wartości narażenia zawodowego w ramach dyrektywy 98/24/WE i zmieniająca dyrektywę 2000/39/WE"
+        },
+        {
+          "key": "ADN",
+          "value": "Europejskie porozumienie dotyczące międzynarodowego przewozu towarów niebezpiecznych drogami śródlądowymi"
+        },
+        {
+          "key": "ADR",
+          "value": "Europejskie porozumienie dotyczące międzynarodowego przewozu towarów niebezpiecznych drogą lądową"
+        },
+        {
+          "key": "CAS",
+          "value": "Chemical Abstracts Service (serwis prowadzący najbardziej kompletny wykaz substancji chemicznych)"
+        },
+        {
+          "key": "CLP",
+          "value": "Rozporządzenie (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin"
+        },
+        {
+          "key": "DGR",
+          "value": "Przepisy dotyczące towarów niebezpiecznych (patrz IATA/DGR)"
+        },
+        {
+          "key": "DNEL",
+          "value": "Wyznaczony poziom narażenia bez skutków (Derived No Effect Level)"
+        },
+        {
+          "key": "Ec No.",
+          "value": "Numer WE – identyfikator substancji handlowych w UE (EINECS, ELINCS, lista NLP)"
+        },
+        {
+          "key": "EH40/2005",
+          "value": "EH40/2005 – Wartości graniczne narażenia zawodowego w miejscu pracy (UK)"
+        },
+        {
+          "key": "EINECS",
+          "value": "Europejski wykaz istniejących handlowych substancji chemicznych"
+        },
+        {
+          "key": "ELINCS",
+          "value": "Europejski wykaz zgłoszonych substancji chemicznych"
+        },
+        {
+          "key": "EmS",
+          "value": "Harmonogram działań awaryjnych (Emergency Schedule)"
+        },
+        {
+          "key": "Eye Dam.",
+          "value": "Poważne uszkodzenie oczu"
+        },
+        {
+          "key": "Eye Irrit.",
+          "value": "Drażniące działanie na oczy"
+        },
+        {
+          "key": "Flam. Liq.",
+          "value": "Ciecz łatwopalna"
+        },
+        {
+          "key": "GHS",
+          "value": "Globalnie Zharmonizowany System Klasyfikacji i Oznakowania Chemikaliów (ONZ)"
+        },
+        {
+          "key": "IATA",
+          "value": "Międzynarodowe Zrzeszenie Przewoźników Powietrznych"
+        },
+        {
+          "key": "IATA/DGR",
+          "value": "Przepisy dotyczące towarów niebezpiecznych w transporcie lotniczym (IATA)"
+        },
+        {
+          "key": "ICAO",
+          "value": "Międzynarodowa Organizacja Lotnictwa Cywilnego"
+        },
+        {
+          "key": "IMDG",
+          "value": "Międzynarodowy kodeks morskich towarów niebezpiecznych"
+        },
+        {
+          "key": "Index No",
+          "value": "Numer indeksowy substancji z części 3 załącznika VI do rozporządzenia (WE) nr 1272/2008"
+        },
+        {
+          "key": "IOELV",
+          "value": "Indykatywna wartość dopuszczalnego narażenia zawodowego"
+        },
+        {
+          "key": "MARPOL",
+          "value": "Międzynarodowa konwencja o zapobieganiu zanieczyszczaniu morza przez statki"
+        },
+        {
+          "key": "NLP",
+          "value": "Polimery wycofane z obrotu (No Longer Polymers)"
+        },
+        {
+          "key": "PBT",
+          "value": "Trwałe, bioakumulacyjne i toksyczne"
+        },
+        {
+          "key": "PNEC",
+          "value": "Przewidywane stężenie bez efektu (Predicted No Effect Concentration)"
+        },
+        {
+          "key": "ppm",
+          "value": "Części na milion"
+        },
+        {
+          "key": "REACH",
+          "value": "Rejestracja, ocena, udzielanie zezwoleń i stosowanie ograniczeń w zakresie chemikaliów"
+        },
+        {
+          "key": "RID",
+          "value": "Przepisy dotyczące międzynarodowego przewozu towarów niebezpiecznych koleją"
+        },
+        {
+          "key": "Skin Corr.",
+          "value": "Działanie żrące na skórę"
+        },
+        {
+          "key": "Skin Irrit.",
+          "value": "Działanie drażniące na skórę"
+        },
+        {
+          "key": "Skin Sens.",
+          "value": "Działanie uczulające na skórę"
+        },
+        {
+          "key": "STEL",
+          "value": "Krótkookresowa wartość dopuszczalna narażenia"
+        },
+        {
+          "key": "STOT SE",
+          "value": "Specyficzne działanie toksyczne na narządy docelowe – jednorazowe narażenie"
+        },
+        {
+          "key": "SVHC",
+          "value": "Substancje budzące szczególne obawy (Substances of Very High Concern)"
+        },
+        {
+          "key": "TWA",
+          "value": "Średnia ważona w czasie (Time Weighted Average)"
+        },
+        {
+          "key": "vPvB",
+          "value": "Bardzo trwałe i bardzo bioakumulacyjne"
+        },
+        {
+          "key": "WEL",
+          "value": "Dopuszczalne wartości narażenia w miejscu pracy"
+        }
+      ],
+      "references": "Bibliografia i źródła danych",
+      "referencesValue": "Rozporządzenie (WE) nr 1272/2008 …\nRozporządzenie (WE) nr 1907/2006 (REACH), zmienione rozporządzeniem 2015/830/UE.…",
+      "classificationProcedure": "Procedura klasyfikacji",
+      "classificationProcedureValue": "Właściwości fizyczne i chemiczne.\nZagrożenia zdrowotne.\nZagrożenia dla środowiska.\nKlasyfikacja mieszaniny oparta na składnikach (formuła addytywna).",
+      "listOfRelevantPhrases": "Lista zwrotów istotnych (kod i pełny tekst z sekcji 2 i 3)"
+    }
+  }
+}

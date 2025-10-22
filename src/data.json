@@ -1,0 +1,103 @@
+{
+  "header": {
+    "version": {
+      "major": 1,
+      "minor": 0
+    },
+    "revisionDate": "19/09/2024",
+    "firstRevisionDate": "19/09/2024"
+  },
+  "identification": {
+    "productIdentifier": {
+      "tradeName": "Glacial Acrylic Acid",
+      "chemicalName": "prop-2-enoic acid",
+      "reachRegistrationNumber": "01-2119452449-31-xxxx",
+      "ec": "201-177-9",
+      "cas": "79-10-7",
+      "additionalIdentification": "EU Index No.: 607-061-00-8; IUPAC: prop-2-enoic acid; Synonyms: glacial acrylic acid, propenoic acid, acroleic acid, ethylenecarboxylic acid."
+    },
+    "uses": {
+      "identified": [
+        "Used for resin manufacture.",
+        "Used for synthetic rubber latex manufacture.",
+        "Monomer for superabsorbent polymers, coatings, adhesives (industrial)."
+      ],
+      "advisedAgainst": [
+        "Any private/household use.",
+        "Use in consumer products without appropriate industrial controls.",
+        "Use without effective polymerization inhibitor present and oxygen control."
+      ]
+    }
+  },
+  "exposureControls": {
+    "occupationalLimits": [
+      {
+        "countryOrRegion": "EU",
+        "substance": "Acrylic acid",
+        "cas": "79-10-7",
+        "shortTerm": {
+          "ppm": "20",
+          "mgPerM3": "59"
+        },
+        "longTerm": {
+          "ppm": "10",
+          "mgPerM3": "29"
+        },
+        "regulationCode": "Directive (EU) 2017/164"
+      },
+      {
+        "countryOrRegion": "US",
+        "substance": "Acrylic acid (ACGIH TLV)",
+        "cas": "79-10-7",
+        "shortTerm": null,
+        "longTerm": {
+          "ppm": "2",
+          "mgPerM3": null
+        },
+        "regulationCode": "ACGIH TLV"
+      },
+      {
+        "countryOrRegion": "US",
+        "substance": "Acrylic acid (NIOSH REL)",
+        "cas": "79-10-7",
+        "shortTerm": null,
+        "longTerm": {
+          "ppm": "2",
+          "mgPerM3": "6"
+        },
+        "regulationCode": "NIOSH REL [skin]"
+      }
+    ],
+    "biologicalLimitValues": null,
+    "environmentalLimits": null,
+    "engineeringControls": "Use local exhaust/containment to keep concentrations below OELs. Provide emergency eyewash and safety shower.",
+    "personalProtectiveEquipment": {
+      "eyeOrFace": "Chemical splash goggles and face shield.",
+      "hand": {
+        "gloves": [
+          {
+            "material": "Butyl rubber",
+            "thickness": null,
+            "breakthroughTime": null
+          },
+          {
+            "material": "Neoprene",
+            "thickness": null,
+            "breakthroughTime": null
+          },
+          {
+            "material": "Nitrile (for incidental contact)",
+            "thickness": null,
+            "breakthroughTime": null
+          }
+        ],
+        "unsuitableMaterials": [
+          "Natural rubber/latex (for extended contact)"
+        ],
+        "description": "Select gloves based on breakthrough times provided by the manufacturer."
+      },
+      "respiratory": "If exposure exceeds OELs, use approved respirator suitable for organic vapours and acid gases; use SCBA for emergency response."
+    },
+    "environmentalControls": "Avoid discharge to the environment. Collect spillage and treat effluent before disposal."
+  }
+}
